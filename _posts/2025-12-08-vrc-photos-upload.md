@@ -8,4 +8,4 @@ tags: [gallery]
 
 ![1](/images/VRChat_2025-11-08_23-34-11.084_2048x1440.png "xxy1")
 ![2](/images/VRChat_2025-11-08_23-36-15.523_2048x1440.png "xxy2")
-![3](/images/VRChat_2025-11-08_22-44-03.951_2048x1440.png "xxy3")
+![3](/images/VRChat_2025-11-09_22-44-03.951_2048x1440.png "xxy3")
